@@ -47,6 +47,7 @@ Ruby on Rails, node, Visual Studio Code
 In order to use this project.. Clone this repository to your desired folder by pasting this command in your command line interface:
 
   https://github.com/binyamolango/hello-rails-back-end
+  https://github.com/binyamolango/hello-react-front-end
 
 ### Prerequisites <a name="prerequisites"></a>
 
