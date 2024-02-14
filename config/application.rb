@@ -29,10 +29,10 @@ module HelloRailsBackEnd
     # Skip views, helpers and assets when generating a new resource.
     config.api_only = true
 
-    Rails.application.config.middleware.insert_before 0, Rack::Cors do
+    config.middleware.insert_before 0, Rack::Cors do
       allow do
-        origins 'http://localhost:3001'
-        resource '*', headers: :any, methods: [:get, :post, :put, :patch, :delete, :options, :head]
+        origins 'http://localhost:3001', 'http://192.168.1.15:3001'
+        resource '/*', headers: :any, methods: [:get]
       end
     end
   end
