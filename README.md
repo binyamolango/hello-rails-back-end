@@ -19,7 +19,7 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Hello Rails React <a name="about-project"></a>
+# 📖 Hello Rails Back End <a name="about-project"></a>
 
 **Hello Rails Back End** is a rails API for getting a random greeting.
 
