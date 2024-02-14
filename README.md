@@ -24,13 +24,11 @@
 **Hello Rails Back End** is a rails API for getting a random greeting.
 
 ## 🛠 Built With <a name="built-with"></a>
-Ruby on Rails, node, Visual Studio Code
+Ruby on Rails, Visual Studio Code
 
 ### Tech Stack <a name="tech-stack"></a>
 
 - **Ruby on Rails**
-- **React**
-- **Redux**
 - **PostgreSQL**
 
 ### Key Features <a name="key-features"></a>
@@ -44,10 +42,10 @@ Ruby on Rails, node, Visual Studio Code
 
 ### Setup <a name="setup"></a>
 
-In order to use this project.. Clone this repository to your desired folder by pasting this command in your command line interface:
+To use this project, Clone this repository to your desired folder by pasting this command in your command line interface:
 
-  https://github.com/binyamolango/hello-rails-back-end
-  https://github.com/binyamolango/hello-react-front-end
+  `git clone https://github.com/binyamolango/hello-rails-back-end.git`
+  `git clone https://github.com/binyamolango/hello-react-front-end.git`
 
 ### Prerequisites <a name="prerequisites"></a>
 
