@@ -46,7 +46,7 @@ To use this project, Clone this repository to your desired folder by pasting thi
 
   - `git clone https://github.com/binyamolango/hello-rails-back-end.git`
 
-My front end link:
+My front-end project link:
 
   - [git clone https://github.com/binyamolango/hello-react-front-end](https://github.com/binyamolango/hello-react-front-end)
 
